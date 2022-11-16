@@ -6,7 +6,6 @@ This program is a simple Python program run through the console. Console prompts
 
 [Software Demo Video](https://youtu.be/uKkzg3hBjQM)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uKkzg3hBjQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Relational Database
 
