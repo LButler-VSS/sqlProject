@@ -1,12 +1,4 @@
-from ast import keyword
-from multiprocessing.sharedctypes import Value
-from optparse import Values
 import sqlite3
-from traceback import print_tb
-from unicodedata import name
-from venv import create
-from warnings import catch_warnings
-
 
 def get_table_choice(x):
     # table_choice is used to decide the table we are working with and

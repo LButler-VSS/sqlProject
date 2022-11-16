@@ -4,10 +4,9 @@ This program is an attempt to better learn SQLite to potentially be used as a to
 
 This program is a simple Python program run through the console. Console prompts give you the option to perform different actions in the database, which will then display results to the console.
 
+[Software Demo Video](https://youtu.be/uKkzg3hBjQM)
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uKkzg3hBjQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Relational Database
 
